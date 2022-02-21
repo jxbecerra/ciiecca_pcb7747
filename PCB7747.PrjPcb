@@ -115,7 +115,7 @@ GenerateClassCluster=0
 DocumentUniqueId=ATTVKJHR
 
 [Document5]
-DocumentPath=PCB7747.SCHLIB
+DocumentPath=PCB7747.BomDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -129,10 +129,10 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=VACYVEGI
+DocumentUniqueId=
 
 [Document6]
-DocumentPath=PCB7747.BomDoc
+DocumentPath=outputs\Job.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
