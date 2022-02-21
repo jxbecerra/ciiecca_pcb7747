@@ -1,0 +1,6 @@
+DRC Rules Export File for PCB: W:\dev\hw\Ciiecca\ciiecca_pcb7747\PCB7747.PcbDoc
+RuleKind=Clearance|RuleName=Clearance Poly|Scope=Board|Minimum=19.69
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=19.69
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=10.00
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
