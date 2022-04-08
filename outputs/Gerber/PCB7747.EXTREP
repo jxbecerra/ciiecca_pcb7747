@@ -1,5 +1,5 @@
 ------------------------------------------------------------------------------------------
-Gerber File Extension Report For: PCB7747.GBR   2/21/2022  5:20:17 PM
+Gerber File Extension Report For: PCB7747.GBR   4/8/2022  4:23:20 PM
 ------------------------------------------------------------------------------------------
 
 
@@ -9,7 +9,6 @@ Layer Extension     Layer Description
 .GTO                Top Overlay                             
 .GBL                Bottom Layer                            
 .GBS                Bottom Solder                           
-.GBP                Bottom Paste                            
 .GBO                Bottom Overlay                          
 .GKO                Keep-Out Layer                          
 ------------------------------------------------------------------------------------------
